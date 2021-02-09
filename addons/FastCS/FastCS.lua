@@ -11,7 +11,7 @@ require("luau")
 
 defaults = {}
 defaults.frame_rate_divisor = 2
-defaults.exclusions = S{"home point #1", "home point #2", "home point #3", "home point #4", "home point #5", "survival guide", "waypoint"}
+defaults.exclusions = S{"home point #1", "home point #2", "home point #3", "home point #4", "home point #5", "igsli", "urbiolaine", "teldro-kesdrodo", "nunaarl bthtrogg", "survival guide", "waypoint"}
 settings = config.load(defaults)
 
 -- Globals:
